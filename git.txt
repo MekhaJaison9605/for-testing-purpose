@@ -1,0 +1,22 @@
+To initalize particular folder as git repository
+{git init}
+
+To lisit the files that need to be pushed (red in clr)
+{git status}
+
+
+To copy files from local storage to staging area
+{git add}
+
+To copy files from staging area to local repository
+{git commit -m "message"}
+
+To copy files from local repository to remote repository
+{git push origin master}
+
+
+
+To download full code(git clone github_repo_url)
+
+
+To download only changes(git pull origin master)
